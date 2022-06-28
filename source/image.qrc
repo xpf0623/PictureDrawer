@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/rotate.png</file>
+        <file>image/arrow.png</file>
+        <file>image/curve.png</file>
+        <file>image/ellipse.png</file>
+        <file>image/file.png</file>
+        <file>image/line.png</file>
+        <file>image/options.png</file>
+        <file>image/polygon.png</file>
+        <file>image/draw.png</file>
+        <file>image/width.png</file>
+    </qresource>
+</RCC>
